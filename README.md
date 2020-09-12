@@ -1,2 +1,3 @@
-# TreasonAndExplosionsFinal
-Final version of Treason and Explosions -- a LAN based multiplayer game in Node.JS
+Boundless Dev. Corp
+
+Experimental Project Alpha Wing - 001
