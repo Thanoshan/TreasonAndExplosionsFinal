@@ -1,3 +1,1 @@
-Boundless Dev. Corp
-
-Experimental Project Alpha Wing - 001
+Final version of Treason And Explosions - A LAN Based Multiplayer Game made using Node.JS
